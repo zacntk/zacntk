@@ -1,16 +1,34 @@
-### Hi there 👋
+# 👋 Hi there! I'm Zack Natakit
 
-<!--
-**zacntk/zacntk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast with a diverse set of skills. Here's a bit about me and what I do:
 
-Here are some ideas to get you started:
+## 🌟 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages:
+- **Python**
+- **Java**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Dart** (Flutter)
+- **C** (Arduino)
+- **SQL**
+
+### Tools & Technologies:
+- **Firebase**
+- **XAMPP**
+- **Draw.io**
+- **Canva**
+- **Figma**
+
+### Currently Learning:
+- **React**
+- **Typescript**
+
+## 📫 How to Reach Me
+
+Feel free to contact me via email at [zack.natakit2@gmail.com](mailto:zack.natakit2@gmail.com). I'm always open to discussing new projects, collaborations, or any exciting tech topics!
+
+---
+
+Thanks for visiting my profile! Have a great day!
