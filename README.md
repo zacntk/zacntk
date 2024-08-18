@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 
 ### Programming Languages:
 - **Python**
-- **Java**
+- **Java** (Spring Boot)
 - **HTML**
 - **CSS**
 - **JavaScript**
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 
 ## 📫 How to Reach Me
 
-Feel free to contact me via email at [zack.natakit2@gmail.com](mailto:zack.natakit2@gmail.com). I'm always open to discussing new projects, collaborations, or any exciting tech topics!
+Feel free to contact me via email at [zack.natakit2@gmail.com](mailto:zack.natakit@gmail.com). I'm always open to discussing new projects, collaborations, or any exciting tech topics!
 
 ---
 
