@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 
 ### Tools & Technologies:
 - **Firebase**
+- **MySQL**
 - **XAMPP**
 - **Draw.io**
 - **Canva**
