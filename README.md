@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 ### Currently Learning:
 - **React**
 - **Typescript**
+- **GO**
 
 ## 📫 How to Reach Me
 
